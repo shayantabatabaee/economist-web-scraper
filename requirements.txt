@@ -1,0 +1,5 @@
+requests
+pydantic-xml[lxml]
+beautifulsoup4
+pandas
+tqdm
