@@ -81,3 +81,6 @@ As mentioned previously, with multithreading the performance increased significa
 <p align="left">
   <img src="./docs/singlethread.png" alt="SingleThread">
 </p>
+
+<h2> Improvement</h2>
+To enhance our processes, we can leverage Airflow as a valuable tool for automating the ETL pipeline. By incorporating Airflow into our workflow, we can streamline the extraction, transformation, and loading of data. Additionally, we can implement a data storage mechanism that ensures synchronization, eliminating the need to repeatedly fetch duplicate data. This optimization not only enhances the overall performance but also prevents unnecessary data redundancy.
